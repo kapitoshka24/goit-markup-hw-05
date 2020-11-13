@@ -381,7 +381,7 @@ p {
   cursor: pointer;
 }
 .social-media .link:hover .svg-img,
-.social-media .link:hover .svg-img {
+.social-media .link:focus .svg-img {
   fill: var(--white);
 }
 footer {
